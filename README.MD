@@ -46,12 +46,9 @@ body, .usertext {
 }
 ``` 
 
+# tablas
+|nombre|apellido|documento|
+|------|--------|---------|
+|daniel|suazo|2933282938|
 
 
-
-
-
-
-
-
-soy otro readme
