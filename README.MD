@@ -52,3 +52,10 @@ body, .usertext {
 |daniel|suazo|2933282938|
 
 
+# citas
+esto es una cita
+>primera cita, doble enter para salir de cita
+
+vamos con otra cita
+>segunda cita
+
