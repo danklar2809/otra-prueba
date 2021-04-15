@@ -59,3 +59,17 @@ esto es una cita
 vamos con otra cita
 >segunda cita
 
+# lineas divisoras
+
+texto
+
+---
+
+texto
+
+***
+
+texto
+___
+
+
